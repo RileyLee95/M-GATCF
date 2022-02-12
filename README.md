@@ -1,8 +1,7 @@
-# M-GAT (Modified-Graph Attention Networks)
+# M-GATCF (Modified-Graph Attention Networks based Collaborative Filtering)
 
 ## Introduction 
 This project is my MSc final project and it aimed at studying and improving on a specific GNN-based CF recommender model named NFCF proposed by Wang et al, 2020.  (Note: The Neural Graph Collaborative Filtering (NGCF) model proposed in the paper by Wang et al. is state-of-the-art GNN-based CF model for implicit feedback-based recommendation scenarios)
-
 
 
 ## Motivation
