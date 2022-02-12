@@ -20,7 +20,7 @@ The code has been tested running under Python 3.6.5. The required packages are a
 - sklearn == 0.19.1
 
 ## Guideline to re-run models
-- I run all experiments on the Golab
+- I ran all experiments on the Golab
 - All arguments for training different models are included in the "M_GATCF_notebook" nootbook, it's self- explained. 
 
 ## Acknowledgement
