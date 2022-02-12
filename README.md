@@ -15,10 +15,10 @@ This project is our early attempt in the GNN-based recommendation area, we hope 
 ## Environment Requirement
 The code has been tested running under Python 3.6.5. The required packages are as follows:
 
-tensorflow == 1.8.0
-numpy == 1.14.3
-scipy == 1.1.0
-sklearn == 0.19.1
+- tensorflow == 1.8.0
+- numpy == 1.14.3
+- scipy == 1.1.0
+- sklearn == 0.19.1
 
 ## Guideline to re-run models
 - I run all experiments on the Golab
